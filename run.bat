@@ -1,0 +1,1 @@
+java -classpath ./lwjgl/lwjgl.jar;./lwjgl/lwjgl.dll;./timer.jar;./timer.dll;./ -Djava.library.path=lwjgl/ com.cyntaks.Game.CompoGame
